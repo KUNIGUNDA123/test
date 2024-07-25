@@ -5,5 +5,5 @@ PinMode(1 , HIGH);
 
 void loop() {
   // put your main code here, to run repeatedly:
-
+Serial.begin(9600);
 }
